@@ -1,0 +1,15 @@
+C:\Users\s2101096\source\repos\Ruoka annos Generator\Ruoka annos Generator\bin\Debug\net6.0\Ruoka annos Generator.exe
+C:\Users\s2101096\source\repos\Ruoka annos Generator\Ruoka annos Generator\bin\Debug\net6.0\Ruoka annos Generator.deps.json
+C:\Users\s2101096\source\repos\Ruoka annos Generator\Ruoka annos Generator\bin\Debug\net6.0\Ruoka annos Generator.runtimeconfig.json
+C:\Users\s2101096\source\repos\Ruoka annos Generator\Ruoka annos Generator\bin\Debug\net6.0\Ruoka annos Generator.dll
+C:\Users\s2101096\source\repos\Ruoka annos Generator\Ruoka annos Generator\bin\Debug\net6.0\Ruoka annos Generator.pdb
+C:\Users\s2101096\source\repos\Ruoka annos Generator\Ruoka annos Generator\obj\Debug\net6.0\Ruoka annos Generator.csproj.AssemblyReference.cache
+C:\Users\s2101096\source\repos\Ruoka annos Generator\Ruoka annos Generator\obj\Debug\net6.0\Ruoka annos Generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2101096\source\repos\Ruoka annos Generator\Ruoka annos Generator\obj\Debug\net6.0\Ruoka annos Generator.AssemblyInfoInputs.cache
+C:\Users\s2101096\source\repos\Ruoka annos Generator\Ruoka annos Generator\obj\Debug\net6.0\Ruoka annos Generator.AssemblyInfo.cs
+C:\Users\s2101096\source\repos\Ruoka annos Generator\Ruoka annos Generator\obj\Debug\net6.0\Ruoka annos Generator.csproj.CoreCompileInputs.cache
+C:\Users\s2101096\source\repos\Ruoka annos Generator\Ruoka annos Generator\obj\Debug\net6.0\Ruoka annos Generator.dll
+C:\Users\s2101096\source\repos\Ruoka annos Generator\Ruoka annos Generator\obj\Debug\net6.0\refint\Ruoka annos Generator.dll
+C:\Users\s2101096\source\repos\Ruoka annos Generator\Ruoka annos Generator\obj\Debug\net6.0\Ruoka annos Generator.pdb
+C:\Users\s2101096\source\repos\Ruoka annos Generator\Ruoka annos Generator\obj\Debug\net6.0\Ruoka annos Generator.genruntimeconfig.cache
+C:\Users\s2101096\source\repos\Ruoka annos Generator\Ruoka annos Generator\obj\Debug\net6.0\ref\Ruoka annos Generator.dll
