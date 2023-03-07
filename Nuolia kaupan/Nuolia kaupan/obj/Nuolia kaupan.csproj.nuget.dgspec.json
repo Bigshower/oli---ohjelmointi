@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s2101096\\source\\repos\\Nuolia kaupan\\Nuolia kaupan\\Nuolia kaupan.csproj": {}
+    "C:\\Users\\s2101096\\source\\repos\\Olio ohjelmointi\\Nuolia kaupan\\Nuolia kaupan\\Nuolia kaupan.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s2101096\\source\\repos\\Nuolia kaupan\\Nuolia kaupan\\Nuolia kaupan.csproj": {
+    "C:\\Users\\s2101096\\source\\repos\\Olio ohjelmointi\\Nuolia kaupan\\Nuolia kaupan\\Nuolia kaupan.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s2101096\\source\\repos\\Nuolia kaupan\\Nuolia kaupan\\Nuolia kaupan.csproj",
+        "projectUniqueName": "C:\\Users\\s2101096\\source\\repos\\Olio ohjelmointi\\Nuolia kaupan\\Nuolia kaupan\\Nuolia kaupan.csproj",
         "projectName": "Nuolia kaupan",
-        "projectPath": "C:\\Users\\s2101096\\source\\repos\\Nuolia kaupan\\Nuolia kaupan\\Nuolia kaupan.csproj",
+        "projectPath": "C:\\Users\\s2101096\\source\\repos\\Olio ohjelmointi\\Nuolia kaupan\\Nuolia kaupan\\Nuolia kaupan.csproj",
         "packagesPath": "C:\\Users\\s2101096\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s2101096\\source\\repos\\Nuolia kaupan\\Nuolia kaupan\\obj\\",
+        "outputPath": "C:\\Users\\s2101096\\source\\repos\\Olio ohjelmointi\\Nuolia kaupan\\Nuolia kaupan\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\s2101096\\AppData\\Roaming\\NuGet\\NuGet.Config",
